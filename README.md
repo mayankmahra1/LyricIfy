@@ -1,11 +1,20 @@
-# Ready for Bharat
-A interactive map / blog of the places I(Mayank Mahra) have visited in India.
+# LyricIfy
+A Small project where users can search up songs and find the original lyrics alongside the English translation. Similar to filmy quotes. 
 
 ## Initial scope
-Five tourist attractions in New Delhi.
+5 songs of my choice
 
 ## Planned technologies
-Java, SpringBoot, HTML, CSS, JavaScript and PostgreSQL.
+Tech Stack
+Backend: Java + Springboot
+Database: PostgreSQL 
+Frontend: HTML, CSS, JavaScript 
+Testing: JUnit. 
+Version control: Git & GitHub. 
+Building the java project & managing libraries: Maven  
+
+## Future technologies
+React 
 
 ## Status
 In development.
